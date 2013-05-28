@@ -1,0 +1,14 @@
+{
+  "name": "opts-exp",
+  "version": "0.0.0",
+  "description": "Node.js opts package Experiment",
+  "dependencies": {
+    "opts": "1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaosf/nodejs-opts-experiment"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
